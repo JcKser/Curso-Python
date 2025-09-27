@@ -1,5 +1,4 @@
 
-
 public class BateriaLaptop {
     
     public static int getBattery(int[] eventos) {
